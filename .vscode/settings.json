@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": true,
+    "python.linting.mypyEnabled": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "editor.smartSelect.selectLeadingAndTrailingWhitespace": true,
+    "files.trimTrailingWhitespace": true,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "ruff.interpreter": [
+        "/home/vscode/.cache/pypoetry/virtualenvs/python-flask-ml-1jZbRsOo-py3.11/bin/python"
+    ]
+}
